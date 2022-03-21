@@ -1,2 +1,2 @@
-# projects
+# Projects
 Collaborative Repository for Contributors 
